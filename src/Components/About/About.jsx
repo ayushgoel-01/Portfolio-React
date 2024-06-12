@@ -16,8 +16,8 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>I am an experienced Frontend Developer with over a decade of professional expertise in the field. Throughout my career, I have had the privilege of collaborating with prestigious organizations, contributing to their success and growth.</p>
-                    <p>My passion for frontend development is not only reflected in my extensive experience but also in the enthusiasm and dedication I bring to each project.</p>
+                    <p>I am Final year student at Chitkara University. My Skills are HTML, CSS, JavaScript, React JS, Node JS, Express, My SQL and Mongo Db. I have interest in Data Structures and algorithms. Apart from that i also have knowledge about Operating System, Data Base management System and Computer networks.</p>
+                    <p>My passion for MERN Stack development is not only reflected in my extensive experience but also in the enthusiasm and dedication I bring to each project.</p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill">
