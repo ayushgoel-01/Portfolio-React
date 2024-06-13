@@ -39,11 +39,12 @@ const Contact = () => {
         <div className="contact-section">
             <div className="contact-left">
                 <h1>Let's talk</h1>
-                <p>I'm currently avaliable for Positions like Software Developer, Frontend, Backend, Full Stack Developer, so feel free to send me a message about anything. You can contact anytime.</p>
+                <p className='contact-first-para'>I'm currently avaliable for Positions like Software Developer, Frontend, Backend, Full Stack Developer, so feel free to send me a message about anything. You can contact anytime.</p>
                 <div className="contact-details">
                     <div className="contact-detail">
                         <img src={mail_icon} alt="" />
-                        <p>goel8550@gmail.com</p>
+                        <a href="">goel8550@gmail.com</a>
+                        {/* <p></p> */}
                     </div>
                     <div className="contact-detail">
                         <img src={linkedin_icon} alt="" />
@@ -51,7 +52,8 @@ const Contact = () => {
                     </div>
                     <div className="contact-detail">
                         <img src={location_icon} alt="" />
-                        <p>Panchkula, India</p>
+                        <a href="">Panchkula, India</a>
+                        {/* <p></p> */}
                     </div>
                 </div>
             </div>
