@@ -25,6 +25,14 @@
     grid-template-columns: 1fr 1fr 1fr;
     gap: 40px; 
 }
+.mywork-heading{
+    padding-bottom: 15px;
+    background: linear-gradient(270deg,#DF8908 50.41%,#B415FF 90.25%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+}
 .mywork-container img{
     box-sizing: border-box;
     height: 280px;
@@ -77,9 +85,18 @@
         grid-template-columns: 1fr 1fr;
         gap: 30px;
     }
+    .mywork-heading{
+        padding-bottom: 15px;
+        background: linear-gradient(270deg,#DF8908 50.41%,#B415FF 90.25%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight: 600;
+    }
     .mywork-container img{
         width: 100%;
         height: 100%;
+        padding-bottom: 40px;
     }
     .mywork-showmore{
         padding: 20px 40px;
